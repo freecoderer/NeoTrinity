@@ -1,6 +1,6 @@
 # Neo Trinity
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&text=Neo%20Trinity&height=100&fontSize=40&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F7CAC9&text=Neo%20Trinity&height=100&fontSize=40&fontColor=ffffff)
 
 ## Overview
 Neo Trinity is a blockchain-based platform designed to enhance security and transparency in campus rental and voting systems. This project aims to leverage blockchain technology to provide a decentralized and tamper-proof solution for managing various campus activities.
@@ -54,4 +54,4 @@ Feel free to reach out for any queries or collaboration opportunities:
 - **GitHub**: [freecoderer](https://github.com/freecoderer)
 - **LinkedIn**: [Donghyun Kim](https://www.linkedin.com/in/kdh1999dev)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=7F7FD5)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=F7CAC9)
