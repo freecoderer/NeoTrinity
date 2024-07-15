@@ -46,6 +46,9 @@ Neo Trinity is a blockchain-based platform designed to enhance security and tran
 ## Key Learning and Impact
 The Neo Trinity project provided extensive hands-on experience in blockchain technology and its practical applications. Skills gained include designing and implementing secure systems using smart contracts and zero-knowledge proofs, as well as integrating IoT devices with blockchain. This project significantly improved project management skills, allowing effective leadership of a team to deliver a complex technical solution. The Neo Trinity project has prepared me to tackle advanced security challenges and drive innovation in the field of blockchain technology.
 
+## 📺 Demo Video
+Watch the demo video to see Neo Trinity in action: [YouTube Video](https://www.youtube.com/watch?v=lmznvGkTQeE) (Note: Video supports only Korean)
+
 ## 📬 Contact
 Feel free to reach out for any queries or collaboration opportunities:
 - **GitHub**: [freecoderer](https://github.com/freecoderer)
